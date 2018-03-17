@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://filter.oa.sso.cloud.com" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://filter.oa.sso.cloud.com" xmlns:intf="http://filter.oa.sso.cloud.com" xmlns:tns1="http://servlet.javax" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://filter.oa.sso.cloud.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <import namespace="http://servlet.javax"/>
+   <element name="init">
+    <complexType>
+     <sequence>
+      <element name="filterConfig" type="xsd:anyType"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="initResponse">
+    <complexType/>
+   </element>
+   <element name="destroy">
+    <complexType/>
+   </element>
+   <element name="destroyResponse">
+    <complexType/>
+   </element>
+   <element name="doFilter">
+    <complexType>
+     <sequence>
+      <element name="servletRequest" type="xsd:anyType"/>
+      <element name="servletResponse" type="xsd:anyType"/>
+      <element name="filterChain" type="xsd:anyType"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="doFilterResponse">
+    <complexType/>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="doFilterRequest">
+
+      <wsdl:part element="impl:doFilter" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="doFilterResponse">
+
+      <wsdl:part element="impl:doFilterResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="destroyRequest">
+
+      <wsdl:part element="impl:destroy" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="initRequest">
+
+      <wsdl:part element="impl:init" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="destroyResponse">
+
+      <wsdl:part element="impl:destroyResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="initResponse">
+
+      <wsdl:part element="impl:initResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="SSOClientFilter">
+
+      <wsdl:operation name="init">
+
+         <wsdl:input message="impl:initRequest" name="initRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:initResponse" name="initResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="destroy">
+
+         <wsdl:input message="impl:destroyRequest" name="destroyRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:destroyResponse" name="destroyResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="doFilter">
+
+         <wsdl:input message="impl:doFilterRequest" name="doFilterRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:doFilterResponse" name="doFilterResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="SSOClientFilterSoapBinding" type="impl:SSOClientFilter">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="init">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="initRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="initResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="destroy">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="destroyRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="destroyResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="doFilter">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="doFilterRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="doFilterResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="SSOClientFilterService">
+
+      <wsdl:port binding="impl:SSOClientFilterSoapBinding" name="SSOClientFilter">
+
+         <wsdlsoap:address location="http://localhost:8081/sso-oa/services/SSOClientFilter"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

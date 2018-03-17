@@ -1,0 +1,4 @@
+com\cloud\sso\server\filter\SSOServerFilter.class
+com\cloud\sso\server\JVMCache.class
+com\cloud\sso\server\servlet\LoginServlet.class
+com\cloud\sso\server\servlet\TicketServlet.class

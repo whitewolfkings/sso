@@ -1,0 +1,1179 @@
+2017-03-18 20:45:53,279 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-18 20:45:55,302 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sso-oa/src/main/java
+2017-03-18 20:45:55,303 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sso-oa/src/main/resources
+2017-03-18 20:45:55,305 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sso-oa/src/test/java
+2017-03-18 20:45:55,670 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-18 20:45:56,987 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-03-18 20:45:57,798 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-18 20:45:57,998 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:45:58,001 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 20:45:58,003 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:45:58,004 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 20:46:14,611 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-18 20:46:14,809 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:14,820 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 20:46:14,822 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:14,823 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 20:46:28,320 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-18 20:46:28,462 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:28,463 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 20:46:28,465 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:28,466 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 20:46:39,419 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-18 20:46:39,585 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:39,586 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 20:46:39,588 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:39,589 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 20:46:55,344 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:55,345 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 20:46:55,347 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:46:55,348 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 20:48:32,405 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-18 20:48:39,002 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 20:48:39,003 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 20:48:48,060 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5-sources.jar
+2017-03-18 20:49:03,436 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5-sources.jar
+2017-03-18 20:49:16,098 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-18 20:49:18,522 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar
+2017-03-18 20:49:23,737 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 20:49:23,738 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 20:49:48,963 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar
+2017-03-18 20:50:04,071 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2017-03-18 20:50:34,352 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2017-03-18 20:50:49,540 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-sources.jar
+2017-03-18 20:51:20,047 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-sources.jar
+2017-03-18 20:51:35,153 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/wagon/wagon-provider-api/2.8/wagon-provider-api-2.8-sources.jar
+2017-03-18 20:51:48,784 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 20:51:48,784 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml install
+2017-03-18 20:51:52,686 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:51:52,689 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 20:51:52,692 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 20:51:52,693 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 20:52:05,455 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/wagon/wagon-provider-api/2.8/wagon-provider-api-2.8-sources.jar
+2017-03-18 20:52:23,840 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 20:52:23,841 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:00:19,662 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:00:19,663 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:01:07,509 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:01:07,510 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:01:18,407 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:01:18,408 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml clean
+2017-03-18 21:01:20,197 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:01:20,200 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:01:20,202 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:01:20,202 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 21:01:27,820 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:01:27,820 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml install
+2017-03-18 21:01:31,776 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:01:31,778 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:01:31,780 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:01:31,782 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 21:02:07,682 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:02:07,683 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:02:28,111 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:02:28,111 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml clean
+2017-03-18 21:02:29,775 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:02:29,777 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:02:29,779 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:02:29,780 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 21:02:46,319 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:02:46,320 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml install
+2017-03-18 21:02:50,009 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:02:50,012 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:02:50,014 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:02:50,016 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 21:04:57,017 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:04:57,018 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:06:27,023 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:27,184 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sso-server/src/main/java
+2017-03-18 21:06:27,184 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sso-server/src/main/resources
+2017-03-18 21:06:27,185 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sso-server/src/test/java
+2017-03-18 21:06:27,373 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-03-18 21:06:27,963 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:28,025 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:28,112 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:28,113 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:06:28,114 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:28,115 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:06:29,231 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:29,478 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:29,479 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:06:29,481 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:29,482 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:06:39,904 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:39,978 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:39,980 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:06:39,981 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:39,982 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:06:48,373 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:48,471 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:48,472 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:06:48,475 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:48,476 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:06:56,707 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-18 21:06:56,771 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:56,774 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:06:56,775 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:06:56,776 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:07:18,163 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-18 21:07:30,699 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:07:30,699 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:07:35,324 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:07:35,326 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:07:35,327 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:07:35,328 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:10:43,511 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:10:43,512 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml clean
+2017-03-18 21:10:45,174 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:10:45,176 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:10:45,178 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:10:45,180 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:10:55,819 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-18 21:11:07,074 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:11:07,074 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:11:54,445 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:11:54,445 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml clean
+2017-03-18 21:11:56,150 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:11:56,152 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:11:56,155 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:11:56,156 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:12:05,766 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:12:05,767 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml install
+2017-03-18 21:12:09,328 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:12:09,331 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:12:09,333 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:12:09,335 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:12:28,286 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:12:28,286 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:12:40,186 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:12:40,187 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:14:40,945 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:14:40,945 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:14:58,653 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:14:58,653 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml clean
+2017-03-18 21:15:00,316 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:15:00,319 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:15:00,321 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:15:00,322 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:15:14,545 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:15:14,545 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml install
+2017-03-18 21:15:18,114 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:15:18,117 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:15:18,120 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:15:18,122 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:15:38,258 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:15:38,258 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:23:51,439 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:23:51,439 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:24:12,081 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:24:12,081 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:24:25,118 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:24:25,118 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:24:53,940 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:24:53,940 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-18 21:25:12,312 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:25:12,313 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:25:12,314 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:25:12,315 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:25:16,803 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:25:16,805 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:25:16,807 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:25:16,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-18 21:25:38,635 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-18 21:25:38,635 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:25:52,726 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-18 21:25:52,727 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-18 21:38:59,392 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:38:59,394 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:38:59,395 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:38:59,396 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:43:58,268 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:43:58,271 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:43:58,272 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:43:58,273 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:44:08,935 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:44:08,936 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:44:08,938 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:44:08,938 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:44:42,427 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:44:42,429 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:44:42,431 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:44:42,431 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 21:44:51,737 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:44:51,739 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 21:44:51,740 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 21:44:51,741 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-18 23:10:52,594 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 23:10:52,595 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-18 23:10:52,596 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-18 23:10:52,597 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:34:57,809 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-19 17:34:57,809 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-19 17:35:03,262 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-19 17:35:03,270 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:35:03,292 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:35:03,295 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:35:03,296 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 17:35:03,323 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-19 17:35:04,702 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:35:04,708 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:35:04,709 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:35:04,710 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 17:35:05,150 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:35:05,151 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:35:05,152 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:35:05,153 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:45:42,641 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:45:42,646 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:45:42,647 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:45:42,648 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:46:09,288 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:46:09,290 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:46:09,291 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:46:09,291 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:46:23,337 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:46:23,339 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:46:23,341 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:46:23,341 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:46:38,640 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:46:38,641 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:46:38,643 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:46:38,644 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:56:01,609 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:56:01,611 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:56:01,613 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:56:01,614 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 17:56:21,105 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 17:56:21,105 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 17:56:37,137 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 17:56:37,137 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 17:58:14,171 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:58:14,173 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 17:58:14,175 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 17:58:14,176 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 18:00:21,641 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:00:21,643 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:00:21,645 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:00:21,647 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 18:03:51,053 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:03:51,053 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:03:51,053 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:03:51,053 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:04:10,891 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:10,891 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:04:10,891 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:10,891 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:04:13,869 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:13,869 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:04:13,869 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:13,869 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:04:17,021 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:17,037 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:04:17,037 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:17,037 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:04:35,127 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:35,127 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:04:35,143 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:04:35,143 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:15:49,180 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:15:49,184 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:15:49,188 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:15:49,191 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:17:12,576 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:17:12,577 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:17:12,578 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:17:12,579 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:19:13,072 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:19:13,075 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:19:13,076 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:19:13,077 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:19:53,306 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:19:53,307 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:19:53,309 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:19:53,309 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:20:37,416 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:20:37,418 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:20:37,421 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:20:37,423 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:20:48,576 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:20:48,579 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:20:48,582 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:20:48,584 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:57:19,510 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-19 18:57:19,510 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-19 18:57:32,458 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-19 18:57:32,485 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:57:32,506 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:57:32,511 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:57:32,512 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:57:32,538 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-19 18:57:33,705 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:57:33,718 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:57:33,723 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:57:33,724 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 18:57:34,458 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:57:34,460 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 18:57:34,461 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 18:57:34,462 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 19:40:38,076 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:40:38,081 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:40:38,082 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:40:38,083 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:40:41,383 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:40:41,384 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:40:41,385 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:40:41,386 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:40:49,338 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:40:49,340 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:40:49,342 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:40:49,343 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:40:56,595 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 19:40:56,597 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 19:41:08,203 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 19:41:08,204 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 19:42:35,904 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:42:35,906 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:42:35,907 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:42:35,909 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:47:24,757 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:47:24,757 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:47:24,757 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:47:24,757 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:48:36,438 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:48:36,454 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:48:36,454 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:48:36,454 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:48:49,767 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:48:49,767 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:48:49,767 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:48:49,767 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:48:52,451 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:48:52,451 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:48:52,451 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:48:52,451 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 19:51:16,502 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:51:16,503 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 19:51:16,504 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 19:51:16,505 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 20:32:52,112 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 20:32:52,112 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 20:32:59,172 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 20:32:59,172 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 20:33:09,835 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 20:33:09,836 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 20:33:20,431 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 20:33:20,431 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 20:38:26,656 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 20:38:26,656 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 20:38:32,014 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 20:38:32,014 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 20:38:43,654 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 20:38:43,655 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 20:38:48,298 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 20:38:48,299 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 20:50:56,431 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 20:50:56,441 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 20:50:56,443 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 20:50:56,444 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 21:20:09,933 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar
+2017-03-19 21:20:40,407 [Worker-71] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar
+2017-03-19 21:20:40,688 [Worker-71] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-httpclient:commons-httpclient:3.1
+2017-03-19 21:20:40,987 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:40,989 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 21:20:40,991 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:40,992 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 21:20:41,832 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-httpclient:commons-httpclient:3.1
+2017-03-19 21:20:42,065 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:42,067 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 21:20:42,071 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:42,073 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 21:20:42,092 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:42,093 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 21:20:42,095 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:42,096 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 21:20:43,114 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:43,116 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 21:20:43,118 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:20:43,120 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-19 21:25:42,036 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:25:42,037 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 21:25:42,039 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 21:25:42,041 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 21:30:51,990 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 21:30:51,990 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 21:30:54,901 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 21:30:54,902 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 21:31:07,358 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 21:31:07,358 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 21:31:12,871 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 21:31:12,872 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 21:36:30,200 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 21:36:30,200 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 21:36:34,197 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 21:36:34,197 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 21:36:40,015 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 21:36:40,016 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 21:36:45,880 [Worker-87] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 21:36:45,880 [Worker-87] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 21:39:35,078 [Worker-92] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 21:39:35,078 [Worker-92] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 21:39:37,240 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 21:39:37,240 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 22:49:47,550 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:49:47,553 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 22:49:47,556 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:49:47,557 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 22:49:49,985 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:49:49,986 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 22:49:49,988 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:49:49,989 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 22:55:23,512 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:55:23,514 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 22:55:23,516 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:55:23,516 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 22:58:01,311 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:58:01,312 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 22:58:01,314 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 22:58:01,315 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:07:33,765 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:07:33,767 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:07:33,768 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:07:33,769 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:07:38,328 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:07:38,330 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:07:38,332 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:07:38,333 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:07:49,787 [Worker-123] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 23:07:49,787 [Worker-123] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 23:08:00,130 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 23:08:00,130 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 23:08:04,868 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 23:08:04,868 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 23:08:13,889 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 23:08:13,890 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 23:08:20,610 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 23:08:20,610 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 23:08:26,603 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 23:08:26,603 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 23:08:34,785 [Worker-118] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 23:08:34,786 [Worker-118] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-19 23:08:41,285 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-19 23:08:41,285 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 23:08:46,164 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-19 23:08:46,164 [Worker-125] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-19 23:10:59,317 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:10:59,332 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:10:59,332 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:10:59,332 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:16:46,149 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:16:46,150 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:16:46,152 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:16:46,152 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:16:48,340 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:16:48,341 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:16:48,343 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:16:48,344 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:17:56,676 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:17:56,677 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:17:56,678 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:17:56,679 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:19:52,495 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:19:52,496 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:19:52,497 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:19:52,498 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:20:18,065 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:20:18,065 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:20:18,065 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:20:18,081 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:21:31,229 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:21:31,231 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:21:31,233 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:21:31,234 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:21:36,884 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:21:36,884 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:21:36,900 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:21:36,900 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:23:25,278 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:23:25,278 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:23:25,278 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:23:25,278 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:23:55,269 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:23:55,269 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:23:55,269 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:23:55,269 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:23:59,196 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:23:59,198 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:23:59,199 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:23:59,201 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:24:02,109 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:24:02,109 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:24:02,109 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:24:02,109 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:37:01,349 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:37:01,350 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:37:01,351 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:37:01,352 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:39:26,935 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:39:26,936 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:39:26,938 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:39:26,939 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:39:49,896 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:39:49,898 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:39:49,899 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:39:49,901 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:48:57,143 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:48:57,144 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:48:57,145 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:48:57,146 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:50:05,922 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:50:05,924 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:50:05,925 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:50:05,926 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:50:34,239 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:50:34,241 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:50:34,242 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:50:34,244 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:51:02,086 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:51:02,089 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:51:02,090 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:51:02,091 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:51:34,424 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:51:34,427 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:51:34,429 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:51:34,431 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:52:22,599 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:52:22,601 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:52:22,604 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:52:22,605 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:54:01,344 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:54:01,345 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:54:01,346 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:54:01,347 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:54:09,704 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:54:09,705 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:54:09,706 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:54:09,706 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:55:13,051 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:13,052 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:55:13,053 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:13,054 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:55:19,147 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:19,152 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:55:19,154 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:19,156 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:55:22,974 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:22,975 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:55:22,975 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:22,976 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:55:26,301 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:26,303 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:55:26,305 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:55:26,307 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:56:37,510 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:56:37,511 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:56:37,512 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:56:37,513 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-19 23:56:49,877 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:56:49,880 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-19 23:56:49,882 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-19 23:56:49,883 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 00:08:05,669 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:08:05,670 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 00:08:05,671 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:08:05,672 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 00:08:19,186 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:08:19,192 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 00:08:19,195 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:08:19,196 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 00:08:29,403 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 00:08:29,403 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 00:08:33,282 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 00:08:33,282 [Worker-161] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 00:08:38,685 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 00:08:38,686 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 00:26:48,225 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:26:48,226 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 00:26:48,227 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:26:48,228 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 00:29:45,026 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:29:45,028 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 00:29:45,029 [Worker-177] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:29:45,029 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 00:30:38,981 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:30:38,983 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 00:30:38,985 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 00:30:38,986 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:00:22,755 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:00:22,757 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:00:22,759 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:00:22,760 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:06:36,878 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:06:36,882 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:06:36,884 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:06:36,885 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:06:47,254 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:06:47,255 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:06:47,257 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:06:47,258 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:07:07,179 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:07:07,181 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:07:07,183 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:07:07,184 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:07:24,179 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:07:24,180 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:07:24,181 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:07:24,182 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:07:55,481 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:07:55,483 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:07:55,485 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:07:55,486 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:16:42,756 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:16:42,757 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:16:42,758 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:16:42,760 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:16:59,154 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:16:59,157 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:16:59,158 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:16:59,159 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:17:07,359 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:17:07,360 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:17:07,362 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:17:07,363 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:17:43,049 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:17:43,051 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:17:43,053 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:17:43,054 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:18:20,442 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:18:20,444 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:18:20,445 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:18:20,446 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:18:58,338 [Worker-214] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 01:18:58,339 [Worker-214] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 01:19:00,660 [Worker-216] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 01:19:00,661 [Worker-216] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 01:19:57,566 [Worker-217] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:19:57,884 [Worker-217] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sso-pro/src/main/java
+2017-03-20 01:19:57,885 [Worker-217] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sso-pro/src/main/resources
+2017-03-20 01:19:57,885 [Worker-217] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sso-pro/src/test/java
+2017-03-20 01:19:58,368 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:19:59,405 [Worker-217] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-03-20 01:19:59,575 [Worker-218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:19:59,742 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:19:59,743 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:19:59,744 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:19:59,745 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:20:00,870 [Worker-218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:20:01,305 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:01,306 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:20:01,307 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:01,308 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:20:25,168 [Worker-214] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:20:25,271 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:25,272 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:20:25,273 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:25,274 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:20:36,406 [Worker-218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:20:36,542 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:36,543 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:20:36,544 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:36,545 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:20:43,054 [Worker-218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:20:43,186 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:43,188 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:20:43,189 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:20:43,191 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:21:18,734 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:21:18,735 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:21:18,736 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:21:18,737 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:21:42,735 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:21:42,737 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:21:42,738 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:21:42,739 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:22:10,000 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:22:10,002 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:22:10,002 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:22:10,003 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:24:25,522 [Worker-220] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:24:25,523 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:24:25,524 [Worker-220] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:24:25,525 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:26:03,888 [Worker-220] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 01:26:03,888 [Worker-220] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 01:26:08,637 [Worker-220] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 01:26:08,638 [Worker-220] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 01:26:15,700 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-20 01:26:26,537 [Worker-223] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 01:26:26,537 [Worker-223] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 01:30:34,249 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:30:34,252 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:30:34,254 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:30:34,261 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:31:14,238 [Worker-229] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:31:14,310 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:14,311 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:31:14,311 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:14,312 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:31:14,312 [Worker-229] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:31:14,343 [Worker-229] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:31:14,352 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:15,483 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:15,486 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:31:15,488 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:15,489 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:31:20,915 [Worker-224] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:31:20,996 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:20,997 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:31:20,998 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:20,998 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:31:20,999 [Worker-224] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:31:20,999 [Worker-224] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:31:21,001 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:22,218 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:22,221 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:31:22,223 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:22,225 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:31:26,815 [Worker-228] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:31:26,902 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:26,903 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:31:26,904 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:26,905 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:31:26,905 [Worker-228] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:31:26,905 [Worker-228] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:31:26,908 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:28,067 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:28,069 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:31:28,070 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:31:28,071 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:32:11,335 [Worker-227] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:32:11,412 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:11,413 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:32:11,414 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:11,415 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:32:11,416 [Worker-227] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:32:11,416 [Worker-227] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:32:11,419 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:20,746 [Worker-229] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:32:20,820 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:20,821 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:32:20,822 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:20,823 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:32:20,823 [Worker-229] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:32:20,823 [Worker-229] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:32:20,825 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:32,744 [Worker-227] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:32:32,833 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:32,834 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:32:32,835 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:32,836 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:32:32,836 [Worker-227] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:32:32,836 [Worker-227] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:32:32,839 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:38,443 [Worker-228] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 01:32:38,508 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:38,509 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:32:38,510 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:32:38,510 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 01:32:38,511 [Worker-228] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 01:32:38,511 [Worker-228] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 01:32:38,513 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:33:16,111 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:33:16,112 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:33:16,113 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:33:16,114 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:33:35,322 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:33:35,323 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:33:35,324 [Worker-228] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:33:35,325 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:36:49,693 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:36:49,695 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:36:49,697 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:36:49,699 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:37:18,805 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:37:18,808 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:37:18,810 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:37:18,812 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:38:16,096 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:38:16,097 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:38:16,098 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:38:16,099 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:38:44,607 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:38:44,608 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:38:44,609 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:38:44,610 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:38:57,870 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:38:57,872 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:38:57,874 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:38:57,874 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:40:04,769 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:40:04,771 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:40:04,773 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:40:04,775 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:40:40,111 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:40:40,113 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:40:40,115 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:40:40,116 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:40:49,094 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:40:49,096 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:40:49,097 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:40:49,099 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:41:52,087 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:41:52,089 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:41:52,090 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:41:52,091 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 01:43:43,558 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:43:43,559 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:43:43,561 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:43:43,561 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:43:58,758 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:43:58,759 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:43:58,760 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:43:58,761 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:45:14,469 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:45:14,471 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:45:14,472 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:45:14,474 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:47:31,125 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:47:31,127 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:47:31,128 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:47:31,129 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:49:26,340 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:49:26,341 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:49:26,342 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:49:26,343 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:49:31,595 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:49:31,596 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:49:31,597 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:49:31,597 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:49:50,263 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:49:50,264 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:49:50,265 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:49:50,266 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:50:05,322 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:50:05,323 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:50:05,324 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:50:05,325 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:51:33,117 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:51:33,118 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:51:33,119 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:51:33,119 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:56:40,892 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:56:40,894 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:56:40,895 [Worker-239] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:56:40,896 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:56:56,050 [Worker-244] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:56:56,051 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:56:56,052 [Worker-244] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:56:56,052 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 01:59:55,683 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:59:55,685 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 01:59:55,686 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 01:59:55,686 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 02:00:11,768 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:00:11,769 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:00:11,770 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:00:11,770 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 02:00:23,679 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:00:23,680 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:00:23,681 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:00:23,681 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 02:00:42,190 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:00:42,191 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:00:42,192 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:00:42,193 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 02:01:25,514 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:01:25,516 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:01:25,517 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:01:25,518 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 02:02:28,382 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:02:28,384 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:02:28,385 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:02:28,386 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 02:02:51,682 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:02:51,684 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:02:51,704 [Worker-245] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:02:51,705 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 02:05:00,425 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-20 02:05:10,916 [Worker-248] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 02:05:10,917 [Worker-248] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:top
+2017-03-20 02:05:17,250 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-20 02:05:52,076 [Worker-250] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 02:05:52,077 [Worker-250] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 02:06:02,484 [Worker-253] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 02:06:02,484 [Worker-253] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 02:06:48,322 [Worker-252] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.pro:sso-pro:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-pro\pom.xml.
+2017-03-20 02:06:48,528 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:06:48,529 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 02:06:48,530 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:06:48,530 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 02:06:48,531 [Worker-252] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-pro
+2017-03-20 02:06:48,531 [Worker-252] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-pro
+2017-03-20 02:06:48,533 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 02:06:55,036 [Worker-221] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 02:06:55,036 [Worker-221] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 02:06:57,519 [Worker-221] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 02:06:57,519 [Worker-221] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 02:06:59,241 [Worker-221] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 02:06:59,241 [Worker-221] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 13:44:46,540 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:44:46,644 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:44:46,646 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:44:46,648 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 13:44:47,153 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:44:47,167 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:44:47,169 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:44:47,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 13:44:47,268 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:44:47,270 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:44:47,272 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:44:47,273 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:45:27,568 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:45:27,574 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:45:27,575 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:45:27,576 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 13:45:33,240 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:45:33,241 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:45:33,243 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:45:33,243 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:46:04,841 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:04,849 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:46:04,850 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:04,852 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:46:19,084 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:19,086 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:46:19,087 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:19,088 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:46:40,049 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:40,050 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:46:40,052 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:40,053 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:46:53,419 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:53,421 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:46:53,422 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:46:53,423 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:47:33,007 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:47:33,009 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:47:33,010 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:47:33,012 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:47:36,634 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:47:36,635 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:47:36,636 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:47:36,637 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:47:39,091 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:47:39,093 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:47:39,095 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:47:39,096 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:48:11,160 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:48:11,162 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:48:11,164 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:48:11,165 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:48:18,564 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:48:18,566 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:48:18,569 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:48:18,570 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:48:35,995 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:48:35,997 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:48:35,998 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:48:35,999 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:53:55,480 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:53:55,482 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:53:55,486 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:53:55,486 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:55:01,455 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:01,456 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:55:01,458 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:01,459 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:55:16,819 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:16,820 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:55:16,822 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:16,823 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:55:19,536 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:19,538 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:55:19,539 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:19,539 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:55:51,240 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:51,242 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:55:51,243 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:55:51,245 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:56:12,629 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:56:12,630 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:56:12,632 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:56:12,633 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:56:22,402 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:56:22,403 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:56:22,405 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:56:22,406 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:56:47,678 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:56:47,679 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:56:47,680 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:56:47,681 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:57:39,130 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:57:39,132 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:57:39,133 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:57:39,134 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 13:58:48,340 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:58:48,341 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:58:48,343 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:58:48,344 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 13:59:40,855 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:59:40,857 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:59:40,859 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:59:40,860 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 13:59:47,024 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:59:47,026 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 13:59:47,028 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 13:59:47,029 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:01:10,106 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:01:10,108 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:01:10,111 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:01:10,112 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:02:29,051 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:02:29,053 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:02:29,054 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:02:29,056 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:02:35,871 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:02:35,872 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:02:35,872 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:02:35,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:04:42,928 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 14:04:42,929 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 14:04:48,630 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 14:04:48,631 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 14:05:06,245 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 14:05:06,246 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 14:07:36,643 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 14:07:36,643 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 14:07:40,196 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 14:07:40,196 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 14:07:42,326 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-pro
+2017-03-20 14:07:42,326 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop
+2017-03-20 14:17:19,808 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:17:19,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:17:19,811 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:17:19,812 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:17:38,121 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:17:38,123 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:17:38,124 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:17:38,125 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:17:46,035 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:17:46,036 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:17:46,038 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:17:46,039 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 14:17:50,469 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-oa
+2017-03-20 14:17:50,469 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 14:17:53,485 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 14:17:53,485 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:run
+2017-03-20 14:20:46,695 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:20:46,697 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:20:46,698 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:20:46,699 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 14:23:31,280 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:23:31,283 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 14:23:31,285 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 14:23:31,286 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 15:00:11,518 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:00:11,520 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:00:11,522 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:00:11,523 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:06:38,156 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:06:38,158 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:06:38,159 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:06:38,160 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:07:05,139 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:07:05,141 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:07:05,142 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:07:05,143 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:08:09,182 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:08:09,183 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:08:09,185 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:08:09,186 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:08:41,767 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:08:41,769 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:08:41,770 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:08:41,771 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:21:14,918 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.server:sso-server:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-server\pom.xml.
+2017-03-20 15:21:16,639 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:16,640 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:21:16,641 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:16,642 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 15:21:16,643 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-server
+2017-03-20 15:21:16,644 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-server
+2017-03-20 15:21:16,649 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:17,808 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:17,809 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:21:17,810 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:17,811 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:21:17,829 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:17,830 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:21:17,832 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:21:17,832 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 15:23:49,320 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:23:49,322 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:23:49,323 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:23:49,323 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 15:28:26,445 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cloud.sso.oa:sso-oa:0.0.1-SNAPSHOT @ F:\mywork\sso\sso-oa\pom.xml.
+2017-03-20 15:28:26,639 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:28:26,640 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:28:26,642 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:28:26,642 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:28:26,643 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sso-oa
+2017-03-20 15:28:26,643 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sso-oa
+2017-03-20 15:28:26,646 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:28:27,811 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:28:27,812 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:28:27,813 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:28:27,814 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 15:30:30,414 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:30:30,415 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 15:30:30,417 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 15:30:30,418 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-pro\src\test\resources
+2017-03-20 16:04:29,481 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:04:29,481 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:04:29,482 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:04:29,483 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 16:07:26,723 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:07:26,725 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:07:26,726 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:07:26,726 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-server\src\test\resources
+2017-03-20 16:09:41,627 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:09:41,628 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:09:41,629 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:09:41,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:13:55,392 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:13:55,393 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:13:55,394 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:13:55,395 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:14:45,792 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:14:45,793 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:14:45,794 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:14:45,795 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:15:47,287 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:15:47,288 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:15:47,302 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:15:47,303 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:16:02,183 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:02,184 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:16:02,185 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:02,186 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:16:13,528 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:13,529 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:16:13,531 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:13,532 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:16:17,169 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:17,170 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:16:17,231 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:17,232 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:16:48,357 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:48,358 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:16:48,359 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:16:48,360 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:18:15,407 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:18:15,428 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:18:15,429 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:18:15,429 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 16:19:18,441 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:19:18,443 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-20 16:19:18,444 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-20 16:19:18,445 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\mywork\sso\sso-oa\src\test\resources
+2017-03-20 18:15:59,738 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mywork\sso\sso-server
+2017-03-20 18:15:59,738 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\m2\settings.xml jetty:stop

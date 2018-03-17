@@ -1,0 +1,71 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cloud.sso.pro</groupId>
+  <artifactId>sso-pro</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>sso-pro Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+    <dependency>
+          <groupId>javax.servlet</groupId>
+          <artifactId>servlet-api</artifactId>
+          <version>2.5</version>
+          <scope>provided</scope>
+      </dependency>
+      <dependency>
+          <groupId>commons-httpclient</groupId>
+          <artifactId>commons-httpclient</artifactId>
+          <version>3.1</version> 
+      </dependency>
+  </dependencies>
+  <build>
+    <finalName>sso-pro</finalName>
+    <plugins>
+			<plugin>
+				<groupId>org.mortbay.jetty</groupId>
+				<artifactId>jetty-maven-plugin</artifactId>
+				<version>8.1.9.v20130131</version>
+				
+				<configuration>				
+					<!-- 配置jetty的容器 端口等 -->
+					<connectors>
+						<connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector">
+							<port>8083</port>
+							<maxIdleTime>30000</maxIdleTime>
+						</connector>
+					</connectors>
+					
+					<!-- 添加一个特殊的端口和控制键(mvn jetty:stop 停止jetty服务) -->
+					<stopKey>stop</stopKey>
+  					<stopPort>6000</stopPort>
+  					
+					<!-- 发现内容改变，进行热部署，默认是0，不热部署 -->
+					<scanIntervalSeconds>1</scanIntervalSeconds>
+					
+					<!-- 配置web容器 -->
+					<webAppSourceDirectory>src/main/webapp</webAppSourceDirectory>
+					
+					<webAppConfig>
+						<!-- 设置项目的虚拟根目录,默认是"/" -->
+						<contextPath>/sso-pro</contextPath>
+						<!-- <descriptor></descriptor> --> <!-- The path to the web.xml file for your webapp -->
+						<!-- <defaultsDescriptor>src/main/resources/webdefault.xml</defaultsDescriptor>  webdefault.xml的路径，若没有配置就是用jetty默认，这个文件在web.xml加载之前加载 -->
+					</webAppConfig>
+					
+					<!-- 自动部署默认是 automatic -->
+					<reload>automatic</reload>
+					
+					<systemProperties>
+						<systemProperty>
+							<name>org.mortbay.util.URI.charset</name>
+							<value>UTF-8</value>
+						</systemProperty>
+					</systemProperties>
+					
+				</configuration>
+			</plugin>
+		</plugins>
+  </build>
+</project>
